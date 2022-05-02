@@ -24,10 +24,10 @@ Upon 3 scenarios of the dataset, we found out that the optimized dataset is perf
 # Deploy 🌐
 We select the best model and deploy it on Streamlit. You can test it out here https://share.streamlit.io/piyawudk/bees_classifier
 
-# Endnotes
+# Endnotes 📜
 Originally, we run our code on Google Colab and the files in this repository undergo changes in the file path without any testing. So if there are any issues, feel free to contact us.
 
-# Dependencies
+# Dependencies 🦾
 Tested on 2 May 2022
 - Python - 3.7
 - Tensorflow - 2.8.0
