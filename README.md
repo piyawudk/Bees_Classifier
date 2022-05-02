@@ -16,7 +16,7 @@ The dataset used comes from <a href="https://beespotter.org/">BeeSpotter</a>, an
 ## Model used 🤖
 - fine-tuned Support Vector Machine (SVM) with Bagging Classifier to speed up the training time
 - fine-tuned Logistic Regression (LR)
-- Convolutional Neural Network (CNN) on top of Inception V3
+- Convolutional Neural Network (CNN) - built model on top of Inception V3
 
 ## Summary ✍
 Upon 3 scenarios of the dataset, we found out that the optimized dataset is performing the best here with a faster training time yet higher accuracy when compared to the balanced data. Here, CNN is performing really well with 98.36% accuracy and a 0.987 AUC score.
